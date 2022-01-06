@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(90deg, #da1055 0%, #64107f 100%);
+    margin: 10px auto;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Pacifico'
+}
+
+.main {
+
+    color: #000000;
+}
+
+.main a, a:visited, a:focus, .nav-link:focus   {
+    color: #ffffff;
+}
+
+
+a:hover, a:link, a:active, .nav-link:hover{
+    color: #000000;
+}
+
+.active {
+    background: #5e1a31;
+}
